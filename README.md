@@ -1,8 +1,9 @@
-#  Hi! My name is Aditya Pratama ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+#  Hi ! My name is Aditya Pratama ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Front-End Developer
 
-I am front-end web developer, my expertise lies in web development and I have a solid understanding of front-end design and UI UX. I am a student of the Bangkit Batch 2 program in 2023. I am very interested in web development because I think it is a very exciting and growing field. I also enjoy learning about how to create websites that look beautiful and are easy for users to use.
+I am a front-end web developer, with expertise in web development and a solid understanding of UI/UX design. Currently enrolled in the Bangkit Batch 2 program for 2023, I am deeply passionate about web development due to its exciting and rapidly expanding nature. I derive great satisfaction from acquiring knowledge about crafting visually appealing websites that offer seamless user experiences.
+
 
 - 🌍  I'm based in Bandung, Indonesia
 - 🖥️  See my portfolio
