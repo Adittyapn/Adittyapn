@@ -24,7 +24,5 @@ I am front-end web developer, my expertise lies in web development and I have a 
 </p>
 
 ### My GitHub Stats
-
-<a href="http://www.github.com/Adittyapn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adittyapn&stroke=ffffff&border=E57C23&background=025464&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
-
-<a href="https://github.com/Adittyapn" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adittyapn&langs_count=10&border=E57C23&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=025464&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Adittyapn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffaizar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Adittyapn" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adittyapn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
