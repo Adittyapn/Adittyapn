@@ -2,7 +2,8 @@
 
 ## Front-End Developer
 
-I am front-end web developer, my expertise lies in web development and I have a solid understanding of front-end design and UI UX. I am a student of the Bangkit Batch 2 program in 2023. I am very interested in web development because I think it is a very exciting and growing field. I also enjoy learning about how to create websites that look beautiful and are easy for users to use.
+I am front-end web developer, my expertise lies in web development and I have a solid understanding of front-end design and UI UX. I am a student of the Bangkit Batch 2 program in 2023. 
+I am very interested in web development because I think it is a very exciting and growing field. I also enjoy learning about how to create websites that look beautiful and are easy for users to use.
 
 - 🌍  I'm based in Bandung, Indonesia
 - 🖥️  See my portfolio
