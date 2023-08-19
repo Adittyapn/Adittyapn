@@ -1,19 +1,37 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <div align="center">
-  <h1>Hi ! My name is Aditya Pratama <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave-hand"> </h1>
+  <h1>Hi ! My name is Aditya Pratama <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" alt="wave-hand"> </h1>
 </div>
+
 <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+%3A)" />
 
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<p>
 I am a front-end web developer, with expertise in web development and a solid understanding of UI/UX design. Currently enrolled in the Bangkit Batch 2 program for 2023, I am deeply passionate about web development due to its exciting and rapidly expanding nature. I derive great satisfaction from acquiring knowledge about crafting visually appealing websites that offer seamless user experiences.
-- 🌍  I'm based in Bandung, Indonesia
-- 🖥️  See my portfolio
+</p>
+
+<br/>
+
+- 🌱 I am currently learning more about full-stack development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/aditya-pratama-8b4839267/)
+- 😄 Pronouns: He/Him
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5fvs2jufzyibjzbz6quehnc3f&cover_image=true&theme=novatorem&show_offline=false&background_color=2b2b2b&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5fvs2jufzyibjzbz6quehnc3f&redirect=true)
+
+---
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Z5U2zDs4) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adittyapn) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratama-8b4839267/)
 
-### Tech Stacks
+## Tech Stacks
 <p align="left">
 <a style="margin: 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a style="margin: 5px" href="https://www.php.net/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"/></a>
