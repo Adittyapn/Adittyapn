@@ -21,7 +21,7 @@ I am a front-end web developer, with expertise in web development and a solid un
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=5fvs2jufzyibjzbz6quehnc3f&count=1&width=700&unique=true)
+![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=5fvs2jufzyibjzbz6quehnc3f&count=1&width=400&unique=true)
 
 ---
 
