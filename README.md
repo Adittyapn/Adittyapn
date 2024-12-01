@@ -23,7 +23,7 @@ I am a front-end web developer, with expertise in web development and a solid un
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5fvs2jufzyibjzbz6quehnc3f&cover_image=true&theme=novatorem&show_offline=false&background_color=2b2b2b&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5fvs2jufzyibjzbz6quehnc3f&redirect=true)
-![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=5fvs2jufzyibjzbz6quehnc3f&unique={true|1|on|yes})
+![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=5fvs2jufzyibjzbz6quehnc3f&cover_image=true&theme=novatorem&show_offline=false&background_color=2b2b2b&interchange=true&bar_color=53b14f&bar_color_cover=false)
 
 ---
 
